@@ -1,0 +1,2 @@
+# Intentionally empty -- Zero Dependency challenge entry.
+# Verified by verify_deps.py, not just by this file being blank.

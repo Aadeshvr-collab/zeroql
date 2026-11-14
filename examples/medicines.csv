@@ -1,0 +1,11 @@
+name,category,stock,price,prescription_required
+Paracetamol 500mg,Analgesic,240,25.5,false
+Amoxicillin 250mg,Antibiotic,12,85.0,true
+Cetirizine 10mg,Antihistamine,150,30.0,false
+Metformin 500mg,Antidiabetic,8,60.0,true
+Ibuprofen 400mg,Analgesic,95,40.0,false
+Azithromycin 500mg,Antibiotic,0,120.0,true
+Omeprazole 20mg,Antacid,60,55.0,false
+Atorvastatin 10mg,Cardiac,18,95.0,true
+Insulin Glargine,Antidiabetic,5,450.0,true
+Vitamin C 500mg,Supplement,300,20.0,false

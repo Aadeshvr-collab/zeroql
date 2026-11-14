@@ -1,0 +1,11 @@
+name,dept,age,salary,active
+Ada Lovelace,Engineering,36,98000,true
+Grace Hopper,Engineering,45,112000,true
+Alan Turing,Research,41,105000,false
+Margaret Hamilton,Research,58,131000,true
+Katherine Johnson,Research,50,99000,true
+Dennis Ritchie,Engineering,34,94000,true
+Barbara Liskov,Engineering,39,121000,true
+Edsger Dijkstra,Research,47,108000,false
+Radia Perlman,Engineering,29,89000,true
+Frances Allen,Research,55,115000,true
